@@ -110,7 +110,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Status Coffee - Automate Daily Standups on Slack
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
