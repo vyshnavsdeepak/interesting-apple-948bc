@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Status Coffee
     content: |
-      Monitor your virtual teams effortlessly
+      Monitor your virtual teams effortlessly.
     actions:
       - label: Learn More
         url: /features
