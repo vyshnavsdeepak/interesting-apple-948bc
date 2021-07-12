@@ -102,7 +102,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Status Coffee - Automate Daily Standups
+  title: Status Coffee - Automate Daily Standups on Slack
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
