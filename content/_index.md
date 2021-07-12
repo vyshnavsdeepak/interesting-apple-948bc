@@ -103,7 +103,9 @@ sections:
     title: Latest Posts
 seo:
   title: Status Coffee - Automate Daily Standups on Slack
-  description: The preview of the Azimuth theme
+  description: Status coffee helps teams across the globe to stay connected. 
+Create and send out periodic surveys to monitor team performance.
+
   extra:
     - name: 'og:type'
       value: website
