@@ -23,10 +23,7 @@ sections:
       - title: The Best Feature of Your Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "Status coffee helps teams across the globe to stay connected.\_\n\nCreate and send out periodic surveys to monitor team performance.\n"
         actions:
           - label: Learn More
             url: /features
@@ -103,8 +100,9 @@ sections:
     title: Latest Posts
 seo:
   title: Status Coffee - Automate Daily Standups on Slack
-  description: Status coffee helps teams across the globe to stay connected. Create and send out periodic surveys to monitor team performance.
-
+  description: >-
+    Status coffee helps teams across the globe to stay connected. Create and
+    send out periodic surveys to monitor team performance.
   extra:
     - name: 'og:type'
       value: website
