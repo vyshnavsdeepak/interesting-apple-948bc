@@ -54,6 +54,17 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: Synchronize time across the globe
+        image: images/feature3.png
+        image_alt: App user profile preview
+        content: "Time setting for surveys is adaptable to teams working in different time zones.\_\n\nSchedule the standups in local time of your team members or w.r.t a specific time zone.\n"
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
   - section_id: reviews
     type: section_reviews
     background: white
