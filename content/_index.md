@@ -9,10 +9,11 @@ sections:
     content: |
       Monitor your virtual teams effortlessly.
     actions:
-      - label: Add to Slacks
+      - label: Add to Slack
         url: /features
         style: primary
         has_icon: true
+        icon: slack
   - section_id: features
     type: section_features
     background: gray
