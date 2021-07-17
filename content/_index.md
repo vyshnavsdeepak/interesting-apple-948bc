@@ -9,7 +9,7 @@ sections:
     content: |
       Monitor your virtual teams effortlessly.
     actions:
-      - label: Add to Slack
+      - label:    Add to Slack
         url: /features
         style: primary
         # has_icon: true
