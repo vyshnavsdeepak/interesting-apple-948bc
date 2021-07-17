@@ -41,7 +41,7 @@
                 "image": "images/status-coffee-logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Status check-in on Slack\n"
             },
             {
                 "type": "footer_nav",
