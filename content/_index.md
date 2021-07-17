@@ -13,7 +13,6 @@ sections:
         url: /features
         style: primary
         has_icon: true
-        icon: linkedin
   - section_id: features
     type: section_features
     background: gray
