@@ -32,10 +32,10 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Fetch regular updates from your team members via customized questions.
+          One-on-one daily status check-in can be used to measure team
+          productivity. 
         actions:
           - label: Learn More
             url: /features
