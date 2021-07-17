@@ -12,6 +12,7 @@ sections:
       - label: Add to Slack
         url: /features
         style: primary
+        has_icon: true
         icon: slack
   - section_id: features
     type: section_features
