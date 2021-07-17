@@ -16,9 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Remote team management made easy
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
