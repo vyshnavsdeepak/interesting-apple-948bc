@@ -57,7 +57,7 @@ sections:
       - title: Share and export the results
         image: images/feature3.png
         image_alt: App user profile preview
-        content: "Time setting for surveys is adaptable to teams working in different time zones.\_\n\nSchedule the standups in local time of your team members or w.r.t a specific time zone.\n"
+        content: "Share survey results to help members understand overall team activity.\_\n\nAnalyze your team better with the data received from the status check-in responses.\n"
         actions:
           - label: Learn More
             url: /features
